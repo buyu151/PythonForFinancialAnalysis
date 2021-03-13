@@ -1,4 +1,5 @@
-# Python for Financial Analysis - Backtesting Investment Strategies with Python
+# Python for Financial Analysis
+## Backtesting Investment Strategies with Python
 
 ## A FREE eBook 
 The eBook will teach you all you need for backtesting investment strategies using Python libraries Pandas, NumPy, and Matplotlib in Jupyter Notebook.
@@ -19,6 +20,7 @@ There are two options
 ### Option 2
 - No installations needed
 - Follow the FREE eBook.
+- Click the corresponding link to open the Notebook in Colab.
   - [00 - Pandas DataFrames](https://colab.research.google.com/github/LearnPythonWithRune/PythonForFinancialAnalysis/blob/main/00%20-%20Pandas%20DataFrames.ipynb)
   - [01 - Read from API](https://colab.research.google.com/github/LearnPythonWithRune/PythonForFinancialAnalysis/blob/main/01%20-%20Read%20from%20API.ipynb)
   - [02 - Visualize DataFrames](https://colab.research.google.com/github/LearnPythonWithRune/PythonForFinancialAnalysis/blob/main/02%20-%20Visualize%20DataFrames.ipynb)
