@@ -5,7 +5,7 @@
 The eBook will teach you all you need for backtesting investment strategies using Python libraries Pandas, NumPy, and Matplotlib in Jupyter Notebook.
 
 ## How to get the eBook
-- Get the FREE eBook by signing up for the newsletter here.
+- [Get the FREE eBook by signing up for the newsletter here.](https://www.learnpythonwithrune.org/free-ebook-2/)
 
 ## How this works
 There are two options
